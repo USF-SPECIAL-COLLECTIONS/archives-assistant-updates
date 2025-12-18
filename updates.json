@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "archives-assistant@usf.edu": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://github.com/USF-SPECIAL-COLLECTIONS/archives-assistant-updates/raw/main/archives-assistant.xpi"
+        }
+      ]
+    }
+  }
+}
